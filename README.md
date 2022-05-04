@@ -14,7 +14,7 @@ This is my portfolio representing who I am and topics and interests I find to ha
 
 ## Access
 It will be listed in a professional GitHub repository used for reference materials for job applications. -->
-![Old school tech](assets/vintage.jpg "Old school tech")
+![Old school tech](https://images.unsplash.com/photo-1565382038303-8c62e88d119a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80 "Old school tech")
 
 ## About me
 
@@ -43,12 +43,3 @@ hearing from you.
 ![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=51be8d)
 
-### My stats
-
-<a href="https://github.com/mrspecht">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrspecht&theme=vue&show_icons=true" alt="My GitHub stats" />
-</a>
-<a href="https://github.com/mrspecht">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
-  GitHub stats"/>
-</a>
