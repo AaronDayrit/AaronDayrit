@@ -14,22 +14,22 @@ This is my portfolio representing who I am and topics and interests I find to ha
 
 ## Access
 It will be listed in a professional GitHub repository used for reference materials for job applications. -->
-![Old school tech](components/img1.jpg "Old school tech")
+![Lights](components/img2.png "Lights")
 
 ## About me
 
 Hello, universe. I'm Aaron Dayrit, a Winnipeg-based IT student.
 
-I'm a web developer who is passionate about creating beautiful and useful websites. I also enjoy educating and assisting others in developing innovative interactive applications.
+I'm a web developer who is passionate about creating beautiful and useful websites. I also enjoy educating and assisting others in developing innovative interactive applications. Most of all, I love the game of challenge every time it crosses my path.
 
-JavaScript,, C#, Java, CSS, HTML are among the programming languages I've worked with. Do you want to learn more? Get in touch with us. I eagerly await your response.
+JavaScript,, C#, Java, CSS, HTML are among the programming languages I've worked with. Do you want to learn more? Get in touch with me. I eagerly await your response.
 
 ### Skills
 
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=java&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=c0de2a)
+![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=c0de2a)
+![](https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=java&logoColor=white&color=c0de2a)
+![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=c0de2a)
+![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=c0de2a)
 
 
