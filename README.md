@@ -15,7 +15,7 @@ This is my portfolio representing who I am and topics and interests I find to ha
 ## Access
 It will be listed in a professional GitHub repository used for reference materials for job applications. -->
 <div>
-    <img src="components/img4.jpg" style="width:100%;"></img>
+    <img src="components/img1.jpg" style="width:100%;"></img>
 </div>
 <!-- ![Lights](components/img2.png "Lights" ) -->
 
