@@ -1,0 +1,15 @@
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/bin/Debug/net7.0/Final_Project
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/bin/Debug/net7.0/Final_Project.deps.json
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/bin/Debug/net7.0/Final_Project.runtimeconfig.json
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/bin/Debug/net7.0/Final_Project.dll
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/bin/Debug/net7.0/Final_Project.pdb
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/Final_Project.csproj.AssemblyReference.cache
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/Final_Project.AssemblyInfoInputs.cache
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/Final_Project.AssemblyInfo.cs
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/Final_Project.csproj.CoreCompileInputs.cache
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/Final_Project.dll
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/refint/Final_Project.dll
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/Final_Project.pdb
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/Final_Project.genruntimeconfig.cache
+/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/Debug/net7.0/ref/Final_Project.dll
