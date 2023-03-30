@@ -23,7 +23,7 @@ It will be listed in a professional GitHub repository used for reference materia
 
 Hello, universe. I'm Aaron Dayrit, a Winnipeg-based IT student.
 
-I'm a web developer who is passionate about creating beautiful and useful websites. I also enjoy educating and assisting others in developing innovative interactive applications. Most of all, I love the game of challenge every time it crosses my path.
+I'm a web developer who is passionate about design and innovation. I also enjoy educating and assisting others in developing innovative interactive applications. Most of all, I love the game of challenge every time it crosses my path.
 
 JavaScript,, C#, Java, CSS, HTML are among the programming languages I've worked with. Do you want to learn more? Get in touch with me. I eagerly await your response.
 
