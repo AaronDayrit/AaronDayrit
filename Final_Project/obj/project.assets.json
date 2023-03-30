@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/Final_Project.csproj",
+      "projectUniqueName": "/Users/aarondayrit/Code/GitHub/TurnBasedGame/Final_Project/Final_Project.csproj",
       "projectName": "Final_Project",
-      "projectPath": "/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/Final_Project.csproj",
+      "projectPath": "/Users/aarondayrit/Code/GitHub/TurnBasedGame/Final_Project/Final_Project.csproj",
       "packagesPath": "/Users/aarondayrit/.nuget/packages/",
-      "outputPath": "/Users/aarondayrit/Code/Visual Studio/Unit 2 - OOJF/Final_Project/Final_Project/obj/",
+      "outputPath": "/Users/aarondayrit/Code/GitHub/TurnBasedGame/Final_Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aarondayrit/.nuget/NuGet/NuGet.Config"

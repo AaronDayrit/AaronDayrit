@@ -1,13 +1,16 @@
 ﻿<Properties StartupConfiguration="{22A98D81-8044-40BF-9EDE-E308A65380C2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Final_Project/Classes/Encounter.cs">
     <Files>
       <File FileName="Final_Project/Classes/Entities/IEntity.cs" />
       <File FileName="Final_Project/Classes/Actions/Attack.cs" />
       <File FileName="Final_Project/Classes/Actions/Weapon.cs" />
-      <File FileName="Final_Project/Classes/Entities/Entity.cs" Line="46" Column="34" />
+      <File FileName="Final_Project/Classes/Entities/Entity.cs" />
       <File FileName="Final_Project/Classes/Entities/Enemies/Bosses/Mistral.cs" />
       <File FileName="Final_Project/Classes/Entities/Enemies/Bosses/Sundowner.cs" />
       <File FileName="Final_Project/Classes/Entities/Enemies/Bosses/Armstrong.cs" />
@@ -22,7 +25,7 @@
       <File FileName="Final_Project/Classes/Entities/Enemies/Bosses/Monsoon.cs" />
       <File FileName="Final_Project/Classes/Entities/Enemies/Bosses/BladeWolf.cs" />
       <File FileName="Final_Project/Program.cs" />
-      <File FileName="Final_Project/Classes/Encounter.cs" Line="198" Column="42" />
+      <File FileName="Final_Project/Classes/Encounter.cs" Line="177" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -37,7 +40,6 @@
                   </Node>
                 </Node>
                 <Node name="Menu" expanded="True" />
-                <Node name="Encounter.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -46,7 +48,4 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Final__Project PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
