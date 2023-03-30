@@ -27,7 +27,7 @@ I'm a web developer who is passionate about design and innovation. I also enjoy 
 
 JavaScript,, C#, Java, CSS, HTML are among the programming languages I've worked with. Do you want to learn more? Get in touch with me. I eagerly await your response.
 
-### Skills
+### Tech Stack
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=c0de2a)
 ![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=c0de2a)
